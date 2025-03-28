@@ -10,6 +10,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 * [encryption](#encryption)
 * [internet](#internet)
 * [protocols](#protocols)
+* [sql](#sql)
 
 ---
 
@@ -28,4 +29,8 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 ### protocols
 
 - [gRPC](/protocols/grpc.md)
+
+### sql
+
+- [Twitter Fanning Out](/sql/twitter-fanning-out.md)
 
