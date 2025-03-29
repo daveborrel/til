@@ -10,6 +10,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 * [encryption](#encryption)
 * [internet](#internet)
 * [protocols](#protocols)
+* [rust](#rust)
 * [sql](#sql)
 
 ---
@@ -29,6 +30,10 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 ### protocols
 
 - [gRPC](/protocols/grpc.md)
+
+### rust
+
+- [vectors](/rust/)
 
 ### sql
 
