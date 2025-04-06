@@ -6,6 +6,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 ### Categories
 
+- [authentication](#authentication)
 - [authorization](#authorization)
 - [css](#css)
 - [encryption](#encryption)
@@ -16,6 +17,9 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 - [sql](#sql)
 
 ---
+
+### authentication
+- [password storage](/authentication/password_storage.md)
 
 ### authorization
 
