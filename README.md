@@ -10,7 +10,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 - [css](#css)
 - [encryption](#encryption)
 - [internet](#internet)
-- [](#mongodb)
+- [mongodb](#mongodb)
 - [protocols](#protocols)
 - [rust](#rust)
 - [sql](#sql)
@@ -40,6 +40,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 ### protocols
 
 - [gRPC](/protocols/grpc.md)
+- [GraphQL vs REST](/protocols/graphql_vs_rest.md)
 
 ### rust
 
