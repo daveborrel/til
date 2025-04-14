@@ -15,6 +15,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 - [internet](#internet)
 - [mongodb](#mongodb)
 - [protocols](#protocols)
+- [python](#python)
 - [rust](#rust)
 - [sql](#sql)
 - [realtime-protocols](#websockets)
@@ -56,6 +57,10 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 - [gRPC](/protocols/grpc.md)
 - [GraphQL vs REST](/protocols/graphql_vs_rest.md)
+
+### python
+
+- [parsing email addresses]()
 
 ### realtime-protocols
 
