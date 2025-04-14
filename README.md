@@ -9,6 +9,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 - [authentication](#authentication)
 - [authorization](#authorization)
 - [css](#css)
+- [distributed-systems](#distributed-systems)
 - [dsa](#dsa)
 - [encryption](#encryption)
 - [internet](#internet)
@@ -30,6 +31,10 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 ### css
 
 - [animation and keyframe](/css/keyframes.md)
+
+### distributed-systems
+
+- [load balancing algorithms](/distributed-systems/load-balancing-algorithms.md)
 
 ### dsa
 
