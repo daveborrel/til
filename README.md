@@ -40,6 +40,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 ### distributed-systems
 
 - [load balancing algorithms](/distributed-systems/load-balancing-algorithms.md)
+- [api gateway](/distributed-systems/api-gateway.md)
 
 ### dsa
 
