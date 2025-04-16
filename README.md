@@ -33,6 +33,10 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 - [animation and keyframe](/css/keyframes.md)
 
+### datebases
+
+= [acid properties](/databases/acid.md)
+
 ### distributed-systems
 
 - [load balancing algorithms](/distributed-systems/load-balancing-algorithms.md)
