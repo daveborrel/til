@@ -12,6 +12,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 - [distributed-systems](#distributed-systems)
 - [dsa](#dsa)
 - [encryption](#encryption)
+- [event-driven-architecture](#event-driven-architecture)
 - [internet](#internet)
 - [mongodb](#mongodb)
 - [protocols](#protocols)
@@ -49,6 +50,10 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 ### encryption
 
 - [sha256](/encryption/sha256.md)
+
+### event-driven-architecture
+
+- [event-driven-architecture](/event-driven-architecture/event-driven-architecture.md)
 
 ### internet
 
