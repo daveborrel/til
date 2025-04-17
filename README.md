@@ -18,6 +18,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 - [protocols](#protocols)
 - [python](#python)
 - [rust](#rust)
+- [security](#security)
 - [sql](#sql)
 - [realtime-protocols](#websockets)
 
@@ -79,6 +80,10 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 ### rust
 
 - [vectors](/rust/)
+
+### security
+
+- [high level security](/security/high-level-security.md)
 
 ### sql
 
