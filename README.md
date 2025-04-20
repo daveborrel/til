@@ -25,6 +25,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 ---
 
 ### authentication
+
 - [password storage](/authentication/password_storage.md)
 
 ### authorization
@@ -75,7 +76,11 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 ### python
 
-- [parsing email addresses]()
+- [parsing email addresses](/python/email-address-parsing-and-regex.md)
+
+### python
+
+- [lifecycle-methods]()
 
 ### realtime-protocols
 
