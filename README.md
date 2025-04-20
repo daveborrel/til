@@ -56,6 +56,10 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 - [event-driven-architecture](/event-driven-architecture/event-driven-architecture.md)
 
+### html
+
+- [forms](/html/forms.md)
+
 ### internet
 
 - [rss](/internet/rss.md)
