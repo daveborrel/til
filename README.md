@@ -40,7 +40,8 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 ### datebases
 
-= [acid properties](/databases/acid.md)
+- [acid properties](/databases/acid.md)
+- [n+1](/databases/n+1.md)
 
 ### distributed-systems
 
