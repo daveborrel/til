@@ -18,6 +18,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 - [node](#node)
 - [protocols](#protocols)
 - [python](#python)
+- [react](#react)
 - [rust](#rust)
 - [security](#security)
 - [sql](#sql)
@@ -84,9 +85,10 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 - [parsing email addresses](/python/email-address-parsing-and-regex.md)
 
-### python
+### react
 
-- [lifecycle-methods]()
+- [code splitting](/react/code-splitting.md)
+- [lifecycle methods](/react/lifecycle-methods.md)
 
 ### realtime-protocols
 
