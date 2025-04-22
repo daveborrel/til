@@ -93,6 +93,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 ### security
 
 - [high level security](/security/high-level-security.md)
+- [cross origin opener policy](/security/cross-origin-opener-policy.md)
 
 ### sql
 
