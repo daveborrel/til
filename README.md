@@ -60,6 +60,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 ### event-driven-architecture
 
 - [event-driven-architecture](/event-driven-architecture/event-driven-architecture.md)
+- [headless architecture](/event-driven-architecture/headless-architecture.md)
 
 ### html
 
