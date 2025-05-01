@@ -17,6 +17,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 - [mongodb](#mongodb)
 - [networking](#networking)
 - [node](#node)
+- [postman](#postman)
 - [protocols](#protocols)
 - [python](#python)
 - [react](#react)
@@ -82,6 +83,10 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 - [middleware](/node/middleware.md)
 - [requests](/node/requests.md)
+
+### postman
+
+- [setting up environments](/postman/environments.md)
 
 ### protocols
 
