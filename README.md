@@ -48,6 +48,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 - [acid properties](/databases/acid.md)
 - [n+1](/databases/n+1.md)
+- [write vs read heavy system](/databases/write-vs-read.md)
 
 ### distributed-systems
 
