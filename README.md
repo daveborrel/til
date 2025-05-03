@@ -8,6 +8,8 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 - [authentication](#authentication)
 - [authorization](#authorization)
+- [caching](#caching)
+- [cli-tools](#cli-tools)
 - [css](#css)
 - [distributed-systems](#distributed-systems)
 - [dsa](#dsa)
@@ -39,6 +41,10 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 ### caching
 
 - [memcache](/caching/memcached.md)
+
+### cli-tools
+
+- [adding to the PATH on pc](/cli-tools/adding-to-PATH-pc.md)
 
 ### css
 
