@@ -101,6 +101,8 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 - [gRPC](/protocols/grpc.md)
 - [GraphQL vs REST](/protocols/graphql_vs_rest.md)
+- [RFC-2617: HTTP authentication basic and digest access authentication](/protocols/http-authentication-rfc-2617.md)
+- [totp: time-based one time password algorithm](/protocols/time-based-OTP-algo-rfc-6239.md)
 
 ### python
 
