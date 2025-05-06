@@ -48,6 +48,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 ### css
 
+- [2x3 grid](/css/2x3-grid.md)
 - [adding classname](/css/adding-classname.md)
 - [animation and keyframe](/css/keyframes.md)
 
