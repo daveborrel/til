@@ -16,6 +16,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 - [encryption](#encryption)
 - [event-driven-architecture](#event-driven-architecture)
 - [internet](#internet)
+- [javascript](#javascript)
 - [mongodb](#mongodb)
 - [networking](#networking)
 - [node](#node)
@@ -88,6 +89,10 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 ### internet
 
 - [rss](/internet/rss.md)
+
+### javascript
+
+- [string manipulation](/javascript/string-manipulation.md)
 
 ### mongodb
 
