@@ -92,6 +92,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 ### javascript
 
+- [falsy pitfalls](/javascript/falsy-pitfalls.md)
 - [string manipulation](/javascript/string-manipulation.md)
 
 ### mongodb
