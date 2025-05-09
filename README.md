@@ -17,6 +17,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 - [event-driven-architecture](#event-driven-architecture)
 - [internet](#internet)
 - [javascript](#javascript)
+- [linux](#linux)
 - [mongodb](#mongodb)
 - [networking](#networking)
 - [node](#node)
@@ -95,6 +96,10 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 - [definitive guide to callbacks/promises](/javascript/)
 - [falsy pitfalls](/javascript/falsy-pitfalls.md)
 - [string manipulation](/javascript/string-manipulation.md)
+
+### linux
+
+- [tar files](/linux/tar-files.md)
 
 ### mongodb
 
