@@ -92,6 +92,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 ### javascript
 
+- [definitive guide to callbacks/promises](/javascript/)
 - [falsy pitfalls](/javascript/falsy-pitfalls.md)
 - [string manipulation](/javascript/string-manipulation.md)
 
@@ -105,6 +106,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 ### node
 
+- [degit](/node/degit.md)
 - [middleware](/node/middleware.md)
 - [requests](/node/requests.md)
 
