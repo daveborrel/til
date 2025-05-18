@@ -29,7 +29,8 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 - [security](#security)
 - [space tech](#space-tech)
 - [sql](#sql)
-- [realtime-protocols](#websockets)
+- [realtime-protocols](#realtime-protocols)
+- [typescript](#typescript)
 
 ---
 
@@ -157,3 +158,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 - [SQL Refresher](/sql/sql-refresher.md)
 - [Twitter Fanning Out](/sql/twitter-fanning-out.md)
+
+### typescript
+
+- [generics](/typescript/generics.md)
