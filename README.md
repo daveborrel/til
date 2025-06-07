@@ -136,6 +136,9 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 - [code splitting](/react/code-splitting.md)
 - [lifecycle methods](/react/lifecycle-methods.md)
+- [prop passing](/react/prop-passing-w-spread-operator.md)
+- [react router](/react/react_router.md)
+- [redux](/react/redux.md)
 
 ### realtime-protocols
 
