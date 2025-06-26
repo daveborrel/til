@@ -97,6 +97,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 - [definitive guide to callbacks/promises](/javascript/)
 - [falsy pitfalls](/javascript/falsy-pitfalls.md)
 - [mutability](/javascript/mutability.md)
+- [object prototypes](/javascript/object-prototypes.md)
 - [string manipulation](/javascript/string-manipulation.md)
 
 ### linux
