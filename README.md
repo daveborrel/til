@@ -92,6 +92,10 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 - [rss](/internet/rss.md)
 
+### java
+
+- [crash course](/java/crashcourse.md)
+
 ### javascript
 
 - [definitive guide to callbacks/promises](/javascript/)
