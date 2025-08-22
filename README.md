@@ -95,6 +95,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 ### java
 
 - [crash course](/java/crashcourse.md)
+- [static factory method](/java/static-factory-method.md)
 
 ### javascript
 
