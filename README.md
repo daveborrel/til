@@ -94,7 +94,9 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 
 ### java
 
+- [builder pattern](/java/builder-pattern.md)
 - [crash course](/java/crashcourse.md)
+- [singleton](/java/singleton.md)
 - [static factory method](/java/static-factory-method.md)
 
 ### javascript
