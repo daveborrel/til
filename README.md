@@ -97,6 +97,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 - [builder pattern](/java/builder-pattern.md)
 - [crash course](/java/crashcourse.md)
 - [overriding equals](/java/override-equals.md)
+- [override tostring](/java/override-tostring.md)
 - [singleton](/java/singleton.md)
 - [static factory method](/java/static-factory-method.md)
 
