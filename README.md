@@ -95,6 +95,7 @@ Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/ti
 ### java
 
 - [builder pattern](/java/builder-pattern.md)
+- [cloneable](/java/cloneable.md)
 - [crash course](/java/crashcourse.md)
 - [overriding equals](/java/override-equals.md)
 - [override tostring](/java/override-tostring.md)
